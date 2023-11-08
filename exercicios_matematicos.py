@@ -12,8 +12,8 @@ resultado_inicial = valor_inicial + (quantidade_horas * valor_hora)
 valor_total = resultado_inicial + resultado_inicial * 0.15
 print(f"O valor a ser cobrado pelo projeto é de: R${valor_total:.2f}")
 
-# Separando a saída dos dois exercícios #
-print("# ----- // ----- #")
+# Quebrando linha #
+print()
 
 # Segundo Exercício: #
 # Uma nave espacial recebe as pessoas com uma mensagem de boas vindas de acordo com o nome que elas forneceram ao fazer o cadastro na recepção. Crie uma aplicação que imprima a mensagem de boas vindas de acordo com os nomes na lista: nomes = [“Elysson“, “Giulia“, “Willian“, “Gileno“], com a seguinte mensagem: “Olá, NOME_PESSOA! Seja bem vindo à nave Imperial dos Siths.”. Crie um programa que faça a interpolação da string de boas vindas, substituindo o NOME_PESSOA pelo nome lido na lista e imprimindo a frase de boas vindas com o nome substituído. # 
