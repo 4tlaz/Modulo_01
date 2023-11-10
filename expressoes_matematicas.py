@@ -1,4 +1,4 @@
-# --> Atividade da Semana 01 <--
+# --> Atividade da Semana 01 <-- #
 
 # Primeira Expressão: 10 + 20 x 30
 resultado = 10 + 20 * 30

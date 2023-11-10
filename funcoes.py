@@ -1,4 +1,4 @@
-# --> Atividade da Semana 03 <--
+# --> Atividade da Semana 03 <-- #
 
 # Crie uma função que, ao receber um número inteiro, retorna se um número é par ou ímpar. #
 def par_ou_impar():
